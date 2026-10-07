@@ -2,7 +2,7 @@
 RU:
 
  Как использовать модуль:
-1. Скачайте архив из раздела **Releases**.
+1. Скачайте архив.
 2. Установите скачанный архив как модуль в KernelSU / Magisk / APatch / SukiSU.
 3. Перезагрузите устройство.
 После установки все системные звуки будут заменены на звуки из ColorOS 17
@@ -16,7 +16,7 @@ RU:
 EN:
 
 How to use the module:
-1. Download the archive from the Releases section.
+1. Download the archive.
 2. Install the downloaded archive as a module in KernelSU / Magisk / APatch / SukiSU.
 3. Reboot your device.
 After installation, all system sounds will be replaced with sounds from ColorOS 17.
